@@ -1,2 +1,5 @@
 rabbit
 tortoise
+lion
+tiger
+elephant
